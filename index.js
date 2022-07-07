@@ -1,3 +1,3 @@
-function send = () => {
-  console.log("Hellow world")
+function name(params) {
+  alert("Hello dude")
 }
